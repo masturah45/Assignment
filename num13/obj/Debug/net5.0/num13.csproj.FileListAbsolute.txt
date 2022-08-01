@@ -1,0 +1,16 @@
+C:\Users\ADESANYA\Desktop\chapter 6\num13\bin\Debug\net5.0\num13.exe
+C:\Users\ADESANYA\Desktop\chapter 6\num13\bin\Debug\net5.0\num13.deps.json
+C:\Users\ADESANYA\Desktop\chapter 6\num13\bin\Debug\net5.0\num13.runtimeconfig.json
+C:\Users\ADESANYA\Desktop\chapter 6\num13\bin\Debug\net5.0\num13.runtimeconfig.dev.json
+C:\Users\ADESANYA\Desktop\chapter 6\num13\bin\Debug\net5.0\num13.dll
+C:\Users\ADESANYA\Desktop\chapter 6\num13\bin\Debug\net5.0\ref\num13.dll
+C:\Users\ADESANYA\Desktop\chapter 6\num13\bin\Debug\net5.0\num13.pdb
+C:\Users\ADESANYA\Desktop\chapter 6\num13\obj\Debug\net5.0\num13.csproj.AssemblyReference.cache
+C:\Users\ADESANYA\Desktop\chapter 6\num13\obj\Debug\net5.0\num13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADESANYA\Desktop\chapter 6\num13\obj\Debug\net5.0\num13.AssemblyInfoInputs.cache
+C:\Users\ADESANYA\Desktop\chapter 6\num13\obj\Debug\net5.0\num13.AssemblyInfo.cs
+C:\Users\ADESANYA\Desktop\chapter 6\num13\obj\Debug\net5.0\num13.csproj.CoreCompileInputs.cache
+C:\Users\ADESANYA\Desktop\chapter 6\num13\obj\Debug\net5.0\num13.dll
+C:\Users\ADESANYA\Desktop\chapter 6\num13\obj\Debug\net5.0\ref\num13.dll
+C:\Users\ADESANYA\Desktop\chapter 6\num13\obj\Debug\net5.0\num13.pdb
+C:\Users\ADESANYA\Desktop\chapter 6\num13\obj\Debug\net5.0\num13.genruntimeconfig.cache
