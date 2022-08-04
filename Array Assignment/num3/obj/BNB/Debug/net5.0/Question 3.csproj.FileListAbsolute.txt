@@ -1,0 +1,16 @@
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Array Assignment\Question 3\bin\BNB\Debug\net5.0\Question 3.exe
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Array Assignment\Question 3\bin\BNB\Debug\net5.0\Question 3.deps.json
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Array Assignment\Question 3\bin\BNB\Debug\net5.0\Question 3.runtimeconfig.json
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Array Assignment\Question 3\bin\BNB\Debug\net5.0\Question 3.runtimeconfig.dev.json
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Array Assignment\Question 3\bin\BNB\Debug\net5.0\Question 3.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Array Assignment\Question 3\bin\BNB\Debug\net5.0\ref\Question 3.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Array Assignment\Question 3\bin\BNB\Debug\net5.0\Question 3.pdb
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Array Assignment\Question 3\obj\BNB\Debug\net5.0\Question 3.csprojAssemblyReference.cache
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Array Assignment\Question 3\obj\BNB\Debug\net5.0\Question 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Array Assignment\Question 3\obj\BNB\Debug\net5.0\Question 3.AssemblyInfoInputs.cache
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Array Assignment\Question 3\obj\BNB\Debug\net5.0\Question 3.AssemblyInfo.cs
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Array Assignment\Question 3\obj\BNB\Debug\net5.0\Question 3.csproj.CoreCompileInputs.cache
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Array Assignment\Question 3\obj\BNB\Debug\net5.0\Question 3.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Array Assignment\Question 3\obj\BNB\Debug\net5.0\ref\Question 3.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Array Assignment\Question 3\obj\BNB\Debug\net5.0\Question 3.pdb
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Array Assignment\Question 3\obj\BNB\Debug\net5.0\Question 3.genruntimeconfig.cache

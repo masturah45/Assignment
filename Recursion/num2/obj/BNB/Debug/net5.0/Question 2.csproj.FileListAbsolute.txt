@@ -1,0 +1,16 @@
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Recursion\Question 2\bin\BNB\Debug\net5.0\Question 2.exe
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Recursion\Question 2\bin\BNB\Debug\net5.0\Question 2.deps.json
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Recursion\Question 2\bin\BNB\Debug\net5.0\Question 2.runtimeconfig.json
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Recursion\Question 2\bin\BNB\Debug\net5.0\Question 2.runtimeconfig.dev.json
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Recursion\Question 2\bin\BNB\Debug\net5.0\Question 2.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Recursion\Question 2\bin\BNB\Debug\net5.0\ref\Question 2.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Recursion\Question 2\bin\BNB\Debug\net5.0\Question 2.pdb
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Recursion\Question 2\obj\BNB\Debug\net5.0\Question 2.csprojAssemblyReference.cache
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Recursion\Question 2\obj\BNB\Debug\net5.0\Question 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Recursion\Question 2\obj\BNB\Debug\net5.0\Question 2.AssemblyInfoInputs.cache
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Recursion\Question 2\obj\BNB\Debug\net5.0\Question 2.AssemblyInfo.cs
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Recursion\Question 2\obj\BNB\Debug\net5.0\Question 2.csproj.CoreCompileInputs.cache
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Recursion\Question 2\obj\BNB\Debug\net5.0\Question 2.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Recursion\Question 2\obj\BNB\Debug\net5.0\ref\Question 2.dll
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Recursion\Question 2\obj\BNB\Debug\net5.0\Question 2.pdb
+C:\Users\ALUFA ROTIMI AKINOLA\Desktop\Recursion\Question 2\obj\BNB\Debug\net5.0\Question 2.genruntimeconfig.cache
